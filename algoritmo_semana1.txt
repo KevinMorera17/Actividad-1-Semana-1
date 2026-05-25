@@ -1,0 +1,6 @@
+1 buscar la información 
+2 revisar la fuente
+3 confirmar la noticia 
+4 verificar la fecha
+5 analizar la información 
+6 compartir la noticia
